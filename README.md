@@ -1,1 +1,5 @@
-# csv_application_with_whiptail
+# CSV File Analysing Application
+
+Language - Bash script
+GUI - Whiptail
+Other - gnuplot
